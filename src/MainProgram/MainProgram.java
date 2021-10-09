@@ -9,7 +9,7 @@ public class MainProgram {
 		System.out.println(builder);
 		
 		do {
-//			Require 5
+//      			Require 5
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Please enter the first string.");
 			string1 = sc.nextLine();
