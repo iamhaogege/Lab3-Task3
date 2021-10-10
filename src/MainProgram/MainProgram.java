@@ -13,7 +13,7 @@ public class MainProgram {
 				Scanner sc = new Scanner(System.in);
 			System.out.println("Please enter the first string.");
 			string1 = sc.nextLine();
-			System.out.println("Please enter the second string.");
+				System.out.println("Please enter the second string.");
 			string2 = sc.nextLine();
 			
 //			Require 6
